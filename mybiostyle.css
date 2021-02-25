@@ -1,3 +1,27 @@
 p{
     color:black
 }
+
+#item-1{
+    font-weight: bolder;
+}
+
+#item-2{
+    font-style: italic;
+}
+
+#item-3{
+    color: blue;
+}
+
+#item-4{
+    font-size: 30px;
+}
+
+#item-5{
+    line-height: 50px;
+}
+
+#picture{
+    background-color: grey;
+}
